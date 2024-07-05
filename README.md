@@ -28,17 +28,8 @@ Interacción con el usuario:
 - Ingresa el número del país al que deseas viajar.
 - El código mostrará los precios de las diferentes aerolíneas y destacará el precio más bajo.
 
-# Estructura
-
-proyecto_comparador_vuelos/
-├── comparador_vuelos.py   # Archivo principal del proyecto
-├── README.md              # Documentación del proyecto
-└── TXT/                   # Carpeta con archivo .txt a usar
-      └── paises.txt       # Archivo con la lista de países
-
 # Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
 
 # Contacto
 Para más información, dudas o sugerencias, puedes contactarme a través de mi email: 06cesar.leon@gmail.com
-
