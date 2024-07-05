@@ -2,7 +2,7 @@
 
 # Descripción
 El "Proyecto_comparador_vuelos" 
-es un proyecto de practica para mis hablidades en Python.tiene como fin comparar los precios de vuelos entre diferentes países y aerolíneas, mostrando la opción más economica al usuario. 
+Es un proyecto de practica para mis hablidades en Python. Tiene como fin comparar los precios de vuelos entre diferentes países y aerolíneas, mostrando la opción más economica al usuario. 
 Los precios se generan aleatoriamente dentro de un rango específico para cada país, permitiendo una simulación de busqueda, ayuda al usuario a encontrar el precio más bajo disponible.
 
 # Instalación
